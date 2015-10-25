@@ -1,42 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 14 Oct 2015 23:34:19 +0200</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2015 23:34:19 +0200</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 15 Oct 2015 01:33:07 +0200</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/10/15/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/10/15/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>100 Words About</title>
+		<description>test description</description>
+		<link>site url</link>
+		<atom:link href="site url/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>A Simple Story</title>
+				
+				
+					<description>Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent...</description>
+				
+				<pubDate>Fri, 23 Oct 2015 03:00:00 +0200</pubDate>
+				<link>site url/a-life-of-walt-disney</link>
+				<guid isPermaLink="true">site url/a-life-of-walt-disney</guid>
+			</item>
+		
+			<item>
+				<title>Mickey Mouse</title>
+				
+				
+					<description>Mickey Mouse is a funny animal cartoon character and the official mascot of...</description>
+				
+				<pubDate>Fri, 28 Nov 2014 02:00:00 +0100</pubDate>
+				<link>site url/mickey-mouse</link>
+				<guid isPermaLink="true">site url/mickey-mouse</guid>
+			</item>
+		
+			<item>
+				<title>Television and later films</title>
+				
+				
+					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
+				
+				<pubDate>Fri, 16 Dec 1983 02:00:00 +0100</pubDate>
+				<link>site url/television</link>
+				<guid isPermaLink="true">site url/television</guid>
+			</item>
+		
+			<item>
+				<title>Color films</title>
+				
+				
+					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
+				
+				<pubDate>Fri, 18 Nov 1932 02:00:00 +0100</pubDate>
+				<link>site url/color-films</link>
+				<guid isPermaLink="true">site url/color-films</guid>
+			</item>
+		
+			<item>
+				<title>Comics</title>
+				
+				
+					<description>Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ...</description>
+				
+				<pubDate>Mon, 13 Jan 1930 02:00:00 +0100</pubDate>
+				<link>site url/comics</link>
+				<guid isPermaLink="true">site url/comics</guid>
+			</item>
+		
+			<item>
+				<title>Black and white films</title>
+				
+				
+					<description>In Mickey&#39;s early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse...</description>
+				
+				<pubDate>Thu, 28 Mar 1929 02:00:00 +0100</pubDate>
+				<link>site url/black-and-white-films</link>
+				<guid isPermaLink="true">site url/black-and-white-films</guid>
+			</item>
+		
+			<item>
+				<title>Mickey Mouse&#39;s Debut</title>
+				
+				
+					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
+				
+				<pubDate>Sun, 18 Nov 1928 02:00:00 +0100</pubDate>
+				<link>site url/debut</link>
+				<guid isPermaLink="true">site url/debut</guid>
+			</item>
+		
+	</channel>
 </rss>
