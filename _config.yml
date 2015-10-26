@@ -13,7 +13,7 @@ locale:              en_us # eg. en_us
 name:				         '100 Words About'
 title:               '100 Words About'
 tagline:             '100 слiв про, 100 słów o, 100 слов о...'
-description:         'test description'
+description:         'I am pleased to see you on my site. I prefer short stories, which can be expressed in a 100 words. Let me know if you would like to hear another 100 words about'
 url:                 site url
 rss:                 rss feed url
 baseurl:             '/'
