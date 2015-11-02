@@ -15,7 +15,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Billion stories in the world. What would be if tomorrow world will have another one? Right. Approximately nothing. My story is a simply one. Without any strong reason but i always wanted to share things that influenced on my life or even changed it. Especially journeys. Today i want to get rid of any fear and finally write down about those things."100 words about" is a challenge that i come up to find a better version of me. 4 languages from my environment to express my own thoughts in a public way? Aha, i am not choosing easy ways.
+Billion stories in the world. Why people are telling them in a public way? Thousands reasons. I have my own. I have two eyes. They are receiving information about this world and giving it to my brain. You also have 2 eyes and they do the same job, but the picture of a world is different for all of us. Now think, life is the only one restricted by two eyes. How limited is the world?!  I am curious. I am going to add my 100 words to whatever I would like to share and check if it changes anything.
 
 
 Чи змінився би світ, якби завтра в ньому з'явилась ще одна історія? Ймовірно , що ні. Хоча, я не збираюсь змінювати світ своїми історіями. Так, несподівано для себе я відкрила одну просту річ, яку хотіла робити і робила подумки мільйон разів. Висловити і поділитися своїми думками і почуттями, пережитими емоціями відкрито і щиро. Зберегти це не тільки в пам'яті, а й десь ще в світі. Хоча ж би й в інтернеті. Чи вистачить мені ста слів? Щонайменше не напишу чогось зайвого. Щонайбільше - навчуся записувати щось варте уваги. 4 мови? Щоб не обмежувати своїх можливостей. То вітаю в просторі моїх думок.
