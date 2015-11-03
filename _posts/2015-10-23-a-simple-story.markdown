@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "A Simple Story"
-date:   2015-10-23 01:00:00
-last_modified_at:  2015-10-23 01:00:00
-excerpt: "Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent..."
+date:   2015-11-03 01:00:00
+last_modified_at:  2015-11-03 23:44:00
+excerpt: "Billion stories in the world. Why people are telling them in a public way? Thousands reasons. I have my own...."
 categories: history
-tags:  disney
+tags:  
 image:
   feature: Z8zTjge2Jac.jpg
   topPosition: -350px
@@ -15,7 +15,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Billion stories in the world. Why people are telling them in a public way? Thousands reasons. I have my own. I have two eyes. They are receiving information about this world and giving it to my brain. You also have 2 eyes and they do the same job, but the picture of a world is different for all of us. Now think, life is the only one restricted by two eyes. How limited is the world?!  I am curious. I am going to add my 100 words to whatever I would like to share and check if it changes anything.
+Billion stories in the world. Why people are telling them in a public way? Thousands reasons. I have my own. I have two eyes and they are receiving information about this world, giving it to my brain. You also have 2 eyes and they do the same job, but the picture of a world is different for all of us. Now think, life is the only one restricted by two eyes. How limited is the world?!  I am curious. I am going to add my 100 words to whatever i would like to share and check if it changes anything.
 
 
 Чи змінився би світ, якби завтра в ньому з'явилась ще одна історія? Ймовірно , що ні. Хоча, я не збираюсь змінювати світ своїми історіями. Так, несподівано для себе я відкрила одну просту річ, яку хотіла робити і робила подумки мільйон разів. Висловити і поділитися своїми думками і почуттями, пережитими емоціями відкрито і щиро. Зберегти це не тільки в пам'яті, а й десь ще в світі. Хоча ж би й в інтернеті. Чи вистачить мені ста слів? Щонайменше не напишу чогось зайвого. Щонайбільше - навчуся записувати щось варте уваги. 4 мови? Щоб не обмежувати своїх можливостей. То вітаю в просторі моїх думок.
