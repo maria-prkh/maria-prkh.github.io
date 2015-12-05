@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Paris"
+date:   2015-12-05 01:00:00
+last_modified_at:  2015-12-05 01:00:00
+excerpt: "First time in my life I've learned that the best moments are unexpected and some things will never happen again..."
+categories: travel
+tags:  Paris
+image:
+  feature: Paris.JPG
+  topPosition: -50px
+  desaturated: true
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+Me and Paris have met in unbelievable perfect time and conditions. First time in my life I've learned that the best moments are unexpected and some things will never happen again. That was August 2013, my first trip to Europe and first time together with my lovely partner far away from home. I Do love Remarque, especially his Arch of Triumph. May be this is why i felt so special in this city. No, i don't love Paris. But he will always be special for me. With a perfect croissants and unbelievable 
+
+
+З тої подорожі повернулася напевно не я. Бо до тої подорожі ніколи в житті мені ніхто не говорив, що я сяю. А тут колега, побачивши мене сказала ,що я випромінюю світло. В принципі на цьому оповідь про Париж можно i завершити :)  Моя любов до цього міста обмежена. Так так, обмежена. Любов'ю до Ремарка і його Триумфальної арки, круасанами, вином, літом, сяйвом Ейфелевої вежі о 22.05 і чоловіком, який мені показав Париж таким. Відвідати Париж знов? - вагаюсь. Хоча на питання "ну що, до Парижу?" завжди кажу "ТАК". Подумки оберігаю ті неповторювальні моменти, вперше в житті розумію цінність часу.
+
+PS: I didn’t promised that my stories always will be in 4 languages, did I? :D
+
+![](/Users/mary/Documents/Myblog/assets/images/hero/mickey-1929.jpg)
