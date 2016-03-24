@@ -1,13 +1,13 @@
 
 # Syntax highlighting
-markdown:            redcarpet
+markdown:            kramdown
 highlighter:         pygments
 
 # Permalinks
 permalink:           /:title
 
 # Setup
-timezone:            Europe/Warsaw # eg. 
+timezone:            Europe/Warsaw # eg.
 locale:              en_us # eg. en_us
 name:				         '100 Words About'
 title:               '100 Words About'
