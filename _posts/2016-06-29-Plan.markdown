@@ -20,8 +20,10 @@ syntaxHighlighter: no
 Today it became clear - my idea with this site just dies. And you know why? Because there is no plan and without plan there is no fun! There is always a choice for us to be drifted by everyday routine or ...! challenge yourself, create timelines, goals, achieve or fail them bla bla. That being said these smart books about secret of happiness and life planning are written by successful people for ... not really successful people. I realized two things about success: lazy asses without a plan will never have fun! So prepare your plan and let the fun happen!
 
 ---
-Some books related I really liked:
-
- * 'The power of habit'  by Charles Duhigg
- * 'What I wish I knew when I was 20' by Tina Silig
- * 'Mind power into 21 century' by John Kehoe
+<font size="4">
+<p>Some books related I really liked:<br>
+'The power of habit'  by Charles Duhigg<br>
+'What I wish I knew when I was 20' by Tina Silig<br>
+'Mind power into 21 century' by John Kehoe <br>
+</p>
+</font>
