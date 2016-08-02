@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Toledo"
+date:   2016-08-01 21:00:00
+excerpt: "If by any chance you have visited Madrid, Toledo is a great opportunity for 1-day trip to the ancient, historical and special atmosphere city..."
+categories: Travel
+tags:  Spain, Toledo 
+image:
+  feature: DSC_0816.jpg
+  topPosition:
+  desaturated: true
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+If by any chance you have visited Madrid, Toledo is a great opportunity for 1-day trip to the ancient, historical and special atmosphere city. Usually we don't take any guides, as many of them are just live speaking Wikipedia, with dry facts and boring stories. I like to feel the atmosphere observing architecture, citizens around, details and small things and Toledo is a pleasant place for such observations. One thing we laughed a lot, it was an old synagogue, entrance costed 3.5€, inside there was ... 'nothing'. Later we discovered a lot of nice things for 3.5€ there, find them ;)
