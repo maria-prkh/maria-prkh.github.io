@@ -11,7 +11,7 @@ timezone:            Europe/Warsaw # eg.
 locale:              en_us # eg. en_us
 name:				         '100 Words About'
 title:               '100 Words About'
-tagline:             '100 слiв про, 100 słów o, 100 слов о...'
+tagline:             'everything, nothing, whatever'
 description:         'I am pleased to see you on my site. I prefer short stories, which can be expressed in a 100 words. I use 4 languages from my environment, the text is not translation,although you can catch the main thought anyway ;)'
 url:                 'http://100wordsabout.me'
 rss:                 'feed.xml'
@@ -26,9 +26,9 @@ disqus:              100wordsabout # get it on https://disqus.com/admin/
 author:
   name:           	 Maria
   url:            	 'http://100wordsabout.me'
-  facebook:          maria.prkh
+  facebook:
   linkedin:          username
-  instagram:         maria_prkh
+  instagram:
 
 fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
